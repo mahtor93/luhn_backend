@@ -1,0 +1,2338 @@
+[
+    {
+        "Pais": "CHILE",
+        "BIN": "518472",
+        "Banco": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518497",
+        "Banco": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518536",
+        "Banco": "COOPERATIVA DE AHORRO Y CREDITO COOPEUCH LTDA.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "522788",
+        "Banco": "CAR S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "549070",
+        "Banco": "CAR S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "489070",
+        "Banco": "BANCO PARIS, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "515872",
+        "Banco": "BANCO RIPLEY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518890",
+        "Banco": "BANCO RIPLEY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "522830",
+        "Banco": "BANCO RIPLEY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "553452",
+        "Banco": "BANCO RIPLEY",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "421917",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "423925",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "435767",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "440698",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "442168",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450802",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450838",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454815",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "462956",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "467498",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "476026",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "490225",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533187",
+        "Banco": "PROMOTORA CMR FALABELLA S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548740",
+        "Banco": "PROMOTORA CMR FALABELLA S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548742",
+        "Banco": "PROMOTORA CMR FALABELLA S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "558984",
+        "Banco": "PROMOTORA CMR FALABELLA S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "WORLD FOR BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "448750",
+        "Banco": "CERTEGY, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "410530",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "421401",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "442679",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450882",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451134",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "493857",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "493859",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "496672",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "515658",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "516998",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518850",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "527698",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "541944",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552635",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552813",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "558727",
+        "Banco": "SCOTIABANK CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "433451",
+        "Banco": "ABN AMRO BANK (CHILE)",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456504",
+        "Banco": "ABN AMRO BANK (CHILE)",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456505",
+        "Banco": "ABN AMRO BANK (CHILE)",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456506",
+        "Banco": "ABN AMRO BANK (CHILE)",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "440612",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "489472",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "512109",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518800",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "521312",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533013",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540937",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543696",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "545196",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "547551",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552252",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554610",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554631",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554632",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554904",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "558347",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "559800",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "559801",
+        "Banco": "ITAU CORPBANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518222",
+        "Banco": "ABC INVERSIONES LIMITADA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "546463",
+        "Banco": "CORP BANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "546467",
+        "Banco": "CORP BANCA",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "419189",
+        "Banco": "BANCO ITAU CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450638",
+        "Banco": "BANCO BHIF",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450639",
+        "Banco": "BANCO BHIF",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "409152",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "441021",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "445596",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "460072",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "465375",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "499847",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "499848",
+        "Banco": "PROMOTORA CMR FALABELLA, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "377632",
+        "Banco": "CORP BANCA CHILE",
+        "Red": "AMERICAN EXPRESS",
+        "Tipo": "CREDIT",
+        "Nivel": "OPEN GOLD REVOLVE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "377820",
+        "Banco": "CORP BANCA CHILE",
+        "Red": "AMERICAN EXPRESS",
+        "Tipo": "CREDIT",
+        "Nivel": "PERSONAL GREEN CHARGE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "409320",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "409674",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425910",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425911",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425913",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425943",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425944",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425947",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425961",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451248",
+        "Banco": "BANCO BICE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "402365",
+        "Banco": "BANCO DEL DESARROLLO",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "402366",
+        "Banco": "BANCO DEL DESARROLLO",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "493858",
+        "Banco": "BANCO DEL DESARROLLO",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533202",
+        "Banco": "BANCO SANTANDER",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533221",
+        "Banco": "BANCO SANTANDER",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533227",
+        "Banco": "BANCO SANTANDER",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "541280",
+        "Banco": "CENCOSUD ADMINISTRADORA DE TARJETAS S.A",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "414670",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "414671",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456460",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456473",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456477",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "486445",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518532",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540523",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "541678",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "542663",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552559",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554926",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "407401",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "407595",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "415282",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "415283",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "417760",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "422766",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "424446",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "424525",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "426040",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "434956",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "446867",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "448480",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "449595",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450878",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450879",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451324",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454413",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "455771",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456365",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456366",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "459311",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "463305",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "463306",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "463307",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "469772",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475774",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475775",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475776",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475777",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475778",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "475779",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "476025",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "476832",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "477040",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "477041",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "478688",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "480293",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "480916",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "480917",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "485029",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "492210",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "494611",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "494614",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "494615",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "496670",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "498811",
+        "Banco": "BANCO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518278",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518370",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "522832",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "534129",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540476",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540782",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543564",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "546689",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548399",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548503",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548647",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548652",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548653",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "549163",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552525",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554902",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "558685",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "558840",
+        "Banco": "BANCO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE EXECUTIVE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "414670",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "414671",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456460",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456473",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "456477",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "486445",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518532",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540523",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "541678",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "542663",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552559",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554926",
+        "Banco": "BANCO DEL ESTADO DE CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "421100",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "425876",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "443861",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "452427",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454723",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454813",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "455342",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "491098",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "496624",
+        "Banco": "CORPBANCA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "544766",
+        "Banco": "BANCO ITAU",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "407300",
+        "Banco": "BANCO SECURITY",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "407301",
+        "Banco": "BANCO SECURITY",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "510854",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "WORLD ELITE BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "520079",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552300",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552595",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "553405",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "554940",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "556083",
+        "Banco": "BANCO SECURITY",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "FLEET"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "493485",
+        "Banco": "REDBANC, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454816",
+        "Banco": "BANCO INTERNACIONAL",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "531216",
+        "Banco": "BANCO INTERNACIONAL",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "539032",
+        "Banco": "BANCO INTERNACIONAL",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "544088",
+        "Banco": "BANCO INTERNACIONAL",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "545153",
+        "Banco": "BANCO INTERNACIONAL",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450883",
+        "Banco": "SCOTIABANK SUD AMERICANO",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "542714",
+        "Banco": "FINANCIERA CONOSUR",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "517980",
+        "Banco": "BANCO CREDITO INVERSIONES",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518891",
+        "Banco": "BANCO CREDITO INVERSIONES",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "531663",
+        "Banco": "BANCO CREDITO INVERSIONES",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552273",
+        "Banco": "BANCO CREDITO INVERSIONES",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540841",
+        "Banco": "BANCO PARIS",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "462760",
+        "Banco": "CITICORP",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID TRAVEL MONEY"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "443854",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "446510",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "446511",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "519741",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "545646",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548569",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "549451",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "553656",
+        "Banco": "BANCO BILBAO VIZCAYA ARGENTARIA CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "403351",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE T&E"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "414756",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "SIGNATURE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "422038",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "424419",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "INFINITE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "448165",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "448542",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "PURCHASING"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "450600",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451368",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "ELECTRON"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454812",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454851",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "454886",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "496617",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "496660",
+        "Banco": "BANCO DE CREDITO E INVERSIONES",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "409767",
+        "Banco": "BANCO FALABELLA",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "410406",
+        "Banco": "BANCO FALABELLA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "410407",
+        "Banco": "BANCO FALABELLA",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "421413",
+        "Banco": "BANCO FALABELLA",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "572602",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587331",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587332",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587334",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587335",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587337",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587339",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "587340",
+        "Banco": "MAESTRO INTERNATIONAL",
+        "Red": "MAESTRO",
+        "Tipo": "DEBIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "438084",
+        "Banco": "CONSORCIO TARJETAS DE CREDITO, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "559202",
+        "Banco": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "559205",
+        "Banco": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "559207",
+        "Banco": "CAT ADMINISTRADORA DE TARJETAS S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "529881",
+        "Banco": "SERVICIO Y ADMINISTRACION CREDITOS COMERCIALES LIDER S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "529883",
+        "Banco": "SERVICIO Y ADMINISTRACION CREDITOS COMERCIALES LIDER S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "529885",
+        "Banco": "SERVICIO Y ADMINISTRACION CREDITOS COMERCIALES LIDER S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "429954",
+        "Banco": "CITIBANK",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "430271",
+        "Banco": "CITIBANK",
+        "Red": "VISA",
+        "Tipo": "DEBIT",
+        "Nivel": "CLASSIC"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451383",
+        "Banco": "CITIBANK",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "451316",
+        "Banco": "TRANSBANK, S.A.",
+        "Red": "VISA",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543655",
+        "Banco": "TRANSBANK, S.A.",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "518440",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "519716",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "520387",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "521892",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "BLACK"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "522181",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "530250",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "WORLD ELITE BUSINESS"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533225",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "533226",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "538759",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "538765",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "PREPAID"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540020",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540475",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540477",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540491",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "540826",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "541320",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "542320",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543200",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543563",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "543565",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "544728",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "545699",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": ""
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "547369",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548480",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548481",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "GOLD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "548482",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "STANDARD"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "549162",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "PLATINUM"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "552561",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "CREDIT",
+        "Nivel": "CORPORATE"
+    },
+    {
+        "Pais": "CHILE",
+        "BIN": "553026",
+        "Banco": "BANCO SANTANDER CHILE",
+        "Red": "MASTERCARD",
+        "Tipo": "DEBIT",
+        "Nivel": "BUSINESS"
+    }
+]

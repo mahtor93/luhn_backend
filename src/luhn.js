@@ -1,10 +1,13 @@
+import {loadData, searchBin} from './data/dataSearch.js'
+
+const data = loadData()
 class CardNumber{
     constructor(bin="434559", length_code){
         this.bin = bin
         this.length_code = length_code
     }
     
-    _checkNum(num){
+    _genVerif(num){
         const check = Array.from(num).reverse().map(Number);
         for (let i = 0; i < check.length; i++) {
             if (i % 2 == 0) {
@@ -20,17 +23,20 @@ class CardNumber{
     }
 
     generate(){
-        const bin_len =this.length_code - this.bin.length -1
-        let nums = [];
-        for(let i =0; i<bin_len;i++){
-            let num = Math.floor(Math.random()*10)
-            nums.push(num)
+        while(true){
+            const bin_len =this.length_code - this.bin.length -1
+            let nums = [];
+            for(let i =0; i<bin_len;i++){
+                let num = Math.floor(Math.random()*10)
+                nums.push(num)
+            }
+            const number_res = this.bin.toString() + nums.join("") //devuelve el número como string
+            let verif = this._genVerif(number_res)
+            const result = number_res+verif.toString()
+            if(cardVal.isValid(result)){
+                return result;
+            }
         }
-        const number_res = this.bin.toString() + nums.join("") //devuelve el número como string
-        let verif = this._checkNum(number_res)
-        const result = number_res+verif.toString()
-
-        return result;
     }
 }
 
@@ -50,6 +56,7 @@ class Card {
         this.bankEntity = bankEntity;
     }
 }
+
 
 
 const cardVal = {
@@ -92,7 +99,7 @@ const cardVal = {
         //Index[2]->index[5] Entidad Bancaria (INN/BIN)
         //Index[6]-index[11]o index[14] Número de cuenta (IAI)
         //index[15] dígito verificador (Check)
-
+        //354028671693342/08
         const MII = value.substring(0,1);
         const INN_BIN = value.substring(2,5);
         const IAI = value.substring(6,11);
@@ -104,29 +111,8 @@ const cardVal = {
     parseCardData : function (number) {
         const l = number.length
         if(this.isValid(number)){
-            const MII  = number.substring(0,1);
-            const BIN = number.substring(1,6);
             const BIN_INN = number.substring(0,6);
-            const IAI = number.substring(6,l-1);
-            const check = number.substring(l-1);
-            //console.log(`${MII}-${BIN}-${IAI}-${check}`)
-            console.log(`BIN: ${BIN_INN}`);
-            switch(MII){
-                case '3':
-                    console.log('American Express')
-                    break;
-                case '4':
-                    console.log('VISA')
-                    break;
-                case '5':
-                    console.log('Mastercard')
-                    break;
-                case '6':
-                    console.log('Discovery Card')
-                    break;
-                default:
-                    break;
-            }
+            console.log(searchBin(BIN_INN,data));
         }else{
             return
         }
