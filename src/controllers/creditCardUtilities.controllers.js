@@ -6,12 +6,6 @@ async function getCardData(req,res){
         if(!number){
             throw new Error('No enviaste número de tarjeta')
         }
-        if(number.length == 6){
-            //Si es un bin, entonces se 
-            const result = creditCardUtils.findCardBin(number)
-            res.send(result)
-            return
-        }
         if (!creditCardUtils.validate(number)){
             throw new Error('Número de tarjeta inválido')
         } 
@@ -30,6 +24,17 @@ async function getCardData(req,res){
     }
 }
 
+async function getBinData(req,res){
+    try{
+        const { bin } = req.params
+        const result = creditCardUtils.getBinData(bin)
+        res.send(result)
+    }catch(error){
+        console.error('Error al obtener los datos del Bin', error);
+        res.status(500).send('Error al obtener los datos del Bin');
+    }
+}
 
 
-export { getCardData }
+
+export { getCardData, getBinData }

@@ -102,7 +102,7 @@ const creditCardUtils = {
         }
     },
 
-    findCardBin : function (number){
+    getBinData : function (number){
         const card_data = searchBin(number,data)
         return card_data
     },
