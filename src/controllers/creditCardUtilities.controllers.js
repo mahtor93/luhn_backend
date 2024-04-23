@@ -35,6 +35,24 @@ async function getBinData(req,res){
     }
 }
 
+async function generateCard(req,res){
+    try{
+        const cantidad = parseInt(req.params.cantidad)
+        if(isNaN(cantidad)){
+            throw new Error('La cantidad ingresada no es un número valido')
+        }
+
+        let arrayCards =[]
+        for(let i = 0;i<cantidad;i++){
+            const card = creditCardUtils.generateCard()
+            arrayCards.push(card)
+        }
+        res.send(arrayCards)
+    }catch(error){
+        console.error('Error al generar nueva tarjeta')
+        res.status(500).send('Algo salió mal en el servidor')
+    }
+}
 
 
-export { getCardData, getBinData }
+export { getCardData, getBinData, generateCard }

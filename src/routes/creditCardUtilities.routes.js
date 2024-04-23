@@ -1,8 +1,11 @@
 import express from 'express'
-import { getCardData, getBinData } from '../controllers/creditCardUtilities.controllers.js'
+import { getCardData, getBinData, generateCard } from '../controllers/creditCardUtilities.controllers.js'
 const router = express.Router()
 
-router.get('/card/', getCardData)
-router.get('/card/:bin', getBinData)
+const raiz = '/card/'
+
+router.get(`${raiz}`, getCardData)
+router.get(`${raiz}:bin`, getBinData)
+router.get(`${raiz}generate/:cantidad`, generateCard)
 
 export default router
