@@ -3,9 +3,11 @@ import path from 'path'
 const currentFileURL = import.meta.url
 const currentDir = path.dirname(currentFileURL)
 
+const country = 'USA'
+
 const loadData = () => {
     try{
-        const data = fs.readFileSync(path.resolve(currentDir.replace('file://', ''), 'USA/datos_bancarios_sort.json'), 'utf8');
+        const data = fs.readFileSync(path.resolve(currentDir.replace('file://', ''), `${country}/datos_bancarios_sort.json`), 'utf8');
         return JSON.parse(data)
     }catch(error){
         console.error('If you haven\'t downloaded the card data, try running npm i creditCardUtils-<country>')
