@@ -29,7 +29,7 @@ Retornará un objeto json almacenado en la variable cardData.
 
 Retornará un objeto json almacenado en la variable binData
 
-##########################################################
+########################[ API TESTING ]#########################
 
 API para probar las funciones de una librería en proceso que permite la identificación de números de tarjetas de crédito emitidas por entidades bancarias chilenas. Basado en el Algoritmo de Luhn, además proporciona opciones para generar números validos de tarjetas, previo ingreso de un BIN/IIN.
 El objetivo es producir una Librería de código que funcione como una herramienta para profesionales del área de la información enfocada en la manipulación de información financiera.
