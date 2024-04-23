@@ -102,6 +102,11 @@ const creditCardUtils = {
         }
     },
 
+    findCardBin : function (number){
+        const card_data = searchBin(number,data)
+        return card_data
+    },
+
     generateNumber: function (bin,length) {
         const card_value = new CardNumber(bin,length);
         return card_value.generate()

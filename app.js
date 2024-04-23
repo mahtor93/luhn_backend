@@ -16,7 +16,8 @@ data.forEach(value => {
         const card_number = creditCardUtils.generateNumber(bin, 16)
         if (creditCardUtils.validate(card_number)) {
             console.log(`${card_number} VALID`)
-            creditCardUtils.parseCardData(card_number)
+            const card_info = creditCardUtils.parseCardData(card_number)
+            console.log(card_info)
         } else {
             console.log(`${card_number} NOT VALID`)
         }
