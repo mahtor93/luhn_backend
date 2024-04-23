@@ -65,4 +65,7 @@ b) localhost/card/:bin
   - Este endpoint requiere pasar el valor de un bin (length = 6 ) a través de la url  
   - Retorna el mismo json que el endpoint /card/, sin el valor de "input".
 
+c) localhost/card/generate/:cantidad
+  - Este endpoint genera una cantidad determinada de números de tarjeta y sus correspondientes datos de bin
+
 **NOTA IMPORTANTE: La API no guarda los datos de las tarjetas enviadas y la librería sólo requiere los 6 primeros números de la tarjeta para su identificación. No así la validación de tarjetas, que requiere un número completo**
