@@ -1,33 +1,34 @@
-**Importacion:**
+**Importación:**
 
   import creditCardUtils from '/path/to/luhn.js';
 
 **Crear un número de tarjeta:**
 
-  let BIN = "123456" 
+  let BIN = "123456"  
   const card_number = creditCardUtils.generateNumber(BIN, _largo-del-numero_)
 
-Retornará un string con el número generado.
-
+  Retornará un string con el número generado.
 
 **Validar un número de tarjeta:**
 
-  let num = "1234567890123456"
+  let num = "1234567890123456"  
   creditCardUtils.validate(num)
 
-Retornará true si es un numero válido o false si no lo es.
+  Retornará true si es un numero válido o false si no lo es.
 
 **Obtener datos de una tarjeta**
-  let num = "1234567890123456" 
+
+  let num = "1234567890123456"  
   const cardData = creditCardUtils.parseCardData(num);
 
-Retornará un objeto json almacenado en la variable cardData.
+  Retornará un objeto json almacenado en la variable cardData.
 
 **Obtener datos de un bin**
-  let bin = "123456"
+
+  let bin = "123456"  
   const binData = creditCardUtils.getBinData(bin)
 
-Retornará un objeto json almacenado en la variable binData
+  Retornará un objeto json almacenado en la variable binData
 
 ########################[ API TESTING ]#########################
 
@@ -38,31 +39,4 @@ El objetivo es producir una Librería de código que funcione como una herramien
 
 La carpeta src/data contiene carpetas con nombres de países, en cada una hay dos archivos .json, uno donde los números bin se ordenan por banco (datos_bancarios_name.json) y otro donde se ordenan por número bin de menor a mayor.
 En la carpeta puede encontrarse además un archivo llamado data_search.js que contiene una función que lee los datos de un archivo determinado. Actualmente está apuntando al a carpeta /USA, por lo que para buscar datos de tarjetas emitidas por entidades financieras chilenas, hay que cambiar la variable country.
-La variable country puede tener los valores {Chile, China, USA}
-El archivo data_search contiene un algoritmo de búsqueda binaria para encontrar el bin en el archivo seleccionado. 
-
-**USO DE LA API**
-
-Endpoints:
-a) localhost/card/
-  - este endpoint requiere un body con el siguiente formato:
-  - { "number":"<número_de_la_tarjeta>" }
-  - Si el número de la tarjeta no pasa la comprobación de luhn, entonces no retornará datos sino el mensaje: 'número de tarjeta invalido'
-  - En caso de ingresar un numero válido, el endpoint retornará un json con la siguiente información:
-    __{
-      "input":"<numero_ingresado>",
-      "bin":"<bin>",
-      "country":"<country>",
-      "bank":"<bank>",
-      "network":"<network>",
-      "type":"<type>",
-      "level":"<level>"
-    }__
-    
-b) localhost/card/:bin
-  - Este endpoint requiere pasar el valor de un bin (length = 6 ) a través de la url
-  - Retorna el mismo json que el endpoint /card/, sin el valor de "input".
-
-
-
-**NOTA IMPORTANTE: La librería no guarda los datos de las tarjetas enviadas.**
+La variable cou
