@@ -15,7 +15,7 @@ const loadData = () => {
         return[]
     }
 }
-function binarySearch(bin, objArray) {
+function _binarySearch(bin, objArray) {
     let lo = 0;
     let hi = objArray.length - 1;
     while (lo <= hi) {
@@ -35,9 +35,23 @@ function binarySearch(bin, objArray) {
 
 const searchBin = (bin) => {
     const data = loadData()
-    const res = binarySearch(bin,data)
+    const res = _binarySearch(bin,data)
     //const res = data.find(obj => obj.bin === bin)
     return res || {'error':'card data not loaded'}
 }
 
-export { loadData, searchBin}
+const randomBin = () =>{
+    const data = loadData()
+    let randomIndex = Math.floor(Math.random()*data.length)
+    const res = data[randomIndex].bin
+    return res
+}
+
+const randomCard = () => {
+    const data = loadData()
+    let randomIndex = Math.floor(Math.random()*data.length)
+    const res = data[randomIndex]
+    return res
+}
+
+export { loadData, searchBin, randomBin, randomCard }

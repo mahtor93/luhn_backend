@@ -1,4 +1,4 @@
-import {loadData, searchBin} from './data/data_search.js'
+import {loadData, searchBin, randomBin, randomCard } from './data/data_search.js'
 const data = loadData()
 
 function _luhn(array){
@@ -23,7 +23,7 @@ function _cleanStr(value){
 }
 
 class CardNumber{
-    constructor(bin="434559", length_code){
+    constructor(bin, length_code){
         this.bin = bin
         this.length_code = length_code
     }
@@ -107,10 +107,25 @@ const creditCardUtils = {
         return card_data
     },
 
-    generateNumber: function (bin,length) {
+    generateNumber: function (length) {
+        const bin = randomBin()
         const card_value = new CardNumber(bin,length);
         return card_value.generate()
     },
+    generateCard: function () {
+        const { bin,country,bank,network,type,level } = randomCard();
+        const card_number = new CardNumber(bin, 16).generate()
+        const res = {
+            "card_number":card_number,
+            "country":country,
+            "bank":bank,
+            "network":network,
+            "type":type,
+            "level":level
+        }
+        return res
+    },
+
     allData: function(){
         return loadData();
     }
