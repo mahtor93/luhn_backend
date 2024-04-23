@@ -46,7 +46,7 @@ class CardNumber{
             const number_res = this.bin.toString() + nums.join("") //devuelve el número como string
             let verif = this._genVerif(number_res)
             const result = number_res+verif.toString()
-            if(creditCardUtils.isValid(result)){
+            if(creditCardUtils.validate(result)){
                 return result;
             }
         }
@@ -72,6 +72,9 @@ class Card {
 
 const creditCardUtils = {
     validate: function (value) {
+        if (typeof value !== 'string') {
+            value = String(value);
+        }
         value = _cleanStr(value);
         const l = value.length
         if (!value) {
@@ -89,10 +92,11 @@ const creditCardUtils = {
     },
 
     parseCardData : function (number) {
-        const l = number.length
-        if(this.isValid(number)){
+        if(this.validate(number)){
             const BIN_INN = number.substring(0,6);
-            console.log(searchBin(BIN_INN,data));
+            const card_data = searchBin(BIN_INN,data);
+            return card_data
+ 
         }else{
             return
         }
