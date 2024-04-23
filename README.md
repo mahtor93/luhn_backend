@@ -1,11 +1,11 @@
 **Importacion:**
 
-  import cardVal from '/path/to/luhn.js';
+  import creditCardUtils from '/path/to/luhn.js';
 
 **Crear un número de tarjeta:**
 
   let BIN = "123456" 
-  const card_number = cardVal.numGen(BIN, _largo-del-numero_)
+  const card_number = creditCardUtils.generateNumber(BIN, _largo-del-numero_)
 
 Retornará un string con el número generado.
 
@@ -13,16 +13,23 @@ Retornará un string con el número generado.
 **Validar un número de tarjeta:**
 
   let num = "1234567890123456"
-  cardVal.isValid(num)
+  creditCardUtils.validate(num)
 
 Retornará true si es un numero válido o false si no lo es.
 
-**Obtener datos de una tarjeta (En proceso de construcción)**
+**Obtener datos de una tarjeta**
   let num = "1234567890123456" 
-  cardVal.parseCardData(num);
+  const cardData = creditCardUtils.parseCardData(num);
 
-Retornará la red de la tarjeta y el BIN.
+Retornará un objeto json almacenado en la variable cardData.
 
+**Obtener datos de un bin**
+  let bin = "123456"
+  const binData = creditCardUtils.getBinData(bin)
+
+Retornará un objeto json almacenado en la variable binData
+
+##########################################################
 
 API para probar las funciones de una librería en proceso que permite la identificación de números de tarjetas de crédito emitidas por entidades bancarias chilenas. Basado en el Algoritmo de Luhn, además proporciona opciones para generar números validos de tarjetas, previo ingreso de un BIN/IIN.
 El objetivo es producir una Librería de código que funcione como una herramienta para profesionales del área de la información enfocada en la manipulación de información financiera.
