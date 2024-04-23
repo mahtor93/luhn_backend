@@ -7,6 +7,9 @@ import router from './src/routes/creditCardUtilities.routes.js';
 let start = new Date().getTime();
 
 const app = express()
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+
 const data = creditCardUtils.allData()
 
 /*

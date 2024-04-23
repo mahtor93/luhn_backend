@@ -2,7 +2,7 @@ import creditCardUtils from "../luhn.js";
 
 async function getCardData(req,res){
     try{
-        const { number } = await req.params
+        const { number } = req.body
         if(!number){
             throw new Error('No enviaste número de tarjeta')
         }
