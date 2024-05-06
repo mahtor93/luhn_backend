@@ -3,7 +3,8 @@ import BinCountry from '../models/card.model.js'
 
 async function getCardData(req,res){
     try{
-        const { number } = req.body
+        const { number } = req.params
+        console.log(number)
         if(!number){
             throw new Error("There is no number on your request")
         }
@@ -16,6 +17,7 @@ async function getCardData(req,res){
         if(!result || result.length === 0){
             return res.status(400).send({ message:'Card data not found' })
         }
+        console.log(result)
         return res.send(result)
     }catch(error){
         console.error("Error while retrieving data", error)
@@ -60,17 +62,35 @@ async function getBanks(req,res){
         ])
         const bankNames = bankList.map((bank) => bank.bank); // Obtener solo los nombres de los bancos
 
-        return res.send(bankNames);
+        return res.send(bankNames.sort());
     }catch(error){
         console.error("Error while retrieving bank data", error)
     }
 }
 
+async function getNewtwork(req,res){
+    try{
+        const { aimBank } = req.params
+        console.log(aimBank)
+        const bank = aimBank.replace(/_/g, " ")
+        console.log(bank)
+        const networkList = await BinCountry.aggregate([
+            {$match:{ bank: bank}},
+            {$group: {_id:"$network"}},
+            {$project:{network:"$_id",_id:0}}
+        ])
+        const networkNames = networkList.map((net =>net.network))
+        return res.send(networkNames.sort())
+    }catch(error){
+        console.error("Error while retrieving data",error)
+    }
+}
+
 async function generateCard(req,res){
     try{
-        const cantidad = parseInt(req.params.cantidad)
+        
     }catch(error){
         console.error("Error while retrieving data", error)
     }
 }
-export { getCardData,getBinData,getCountries,getBanks }
+export { getCardData,getBinData,getCountries,getBanks, getNewtwork }
