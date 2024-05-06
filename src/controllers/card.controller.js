@@ -58,7 +58,9 @@ async function getBanks(req,res){
             {$group: {_id:"$bank"}},
             { $project: {bank:"$_id",_id:0}}
         ])
-        return res.send(bankList)
+        const bankNames = bankList.map((bank) => bank.bank); // Obtener solo los nombres de los bancos
+
+        return res.send(bankNames);
     }catch(error){
         console.error("Error while retrieving bank data", error)
     }

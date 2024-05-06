@@ -7,7 +7,7 @@ const raiz = '/card'
 router.get(`${raiz}/`, getCardData)
 router.get(`${raiz}/:bin`, getBinData)
 router.get(`/getBanks/:aimCountry`, getBanks)
-router.get(`/getCountries`, getCountries)
+router.get(`/getcountries`, getCountries)
 /*
 router.get(`${raiz}generate/:cantidad`, generateCard)
 */
