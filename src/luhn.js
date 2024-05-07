@@ -125,6 +125,11 @@ const creditCardUtils = {
         }
         return res
     },
+    generateNumberCard: function (bin) {
+        //const { bin,country,bank,network,type,level } = randomCard();
+        const card_number = new CardNumber(bin, 16).generate()
+        return card_number
+    },
 
     allData: function(){
         return loadData();

@@ -88,9 +88,29 @@ async function getNewtwork(req,res){
 
 async function generateCard(req,res){
     try{
-        
+        const { country, bank, network } = req.body
+        console.log(country)
+        console.log(bank)
+        console.log(network)
+        const bin_number = await BinCountry.find({
+            "country": country,
+            "bank": bank,
+            "network": network
+        })
+        console.log(bin_number)        
+        const bin_data = bin_number.map(number => {
+            return {
+                "cardNumber": creditCardUtils.generateNumberCard(number.bin),
+                "country":country,
+                "bank":bank,
+                "network":network,
+                "type":number.type,
+                "level":number.level,
+            }
+        })
+        return res.send(bin_data)
     }catch(error){
         console.error("Error while retrieving data", error)
     }
 }
-export { getCardData,getBinData,getCountries,getBanks, getNewtwork }
+export { getCardData,getBinData,getCountries,getBanks, getNewtwork,generateCard }
