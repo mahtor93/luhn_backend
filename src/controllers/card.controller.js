@@ -56,9 +56,9 @@ async function getBanks(req,res){
     try{
         const { aimCountry } = req.params
         const bankList = await BinCountry.aggregate([
-            {$match:{ country: aimCountry}},
-            {$group: {_id:"$bank"}},
-            { $project: {bank:"$_id",_id:0}}
+            {$match:{ country: aimCountry}}, //Selecciona todos los documentos que coincidan con aimCountry
+            {$group: {_id:"$bank"}}, //Agrupa los documentos por el campo bank. (Se añade solo una vez cada elemento $bank y no todas sus repeticiones)
+            {$project: {bank:"$_id",_id:0}} //
         ])
         const bankNames = bankList.map((bank) => bank.bank); // Obtener solo los nombres de los bancos
 
@@ -76,8 +76,8 @@ async function getNewtwork(req,res){
         console.log(bank)
         const networkList = await BinCountry.aggregate([
             {$match:{ bank: bank}},
-            {$group: {_id:"$network"}},
-            {$project:{network:"$_id",_id:0}}
+            {$group: {_id:"$network"}}, // _id representa el parámetro de unión que será utilizado para agrupar, en este caso por "network"
+            {$project:{network:"$_id",_id:0}} //Se asigna el valor de network como _id y se elimina el otro _id por defecto. (retorna sólo network)
         ])
         const networkNames = networkList.map((net =>net.network))
         return res.send(networkNames.sort())
@@ -92,11 +92,14 @@ async function generateCard(req,res){
         console.log(country)
         console.log(bank)
         console.log(network)
-        const bin_number = await BinCountry.find({
-            "country": country,
-            "bank": bank,
-            "network": network
-        })
+        const bin_number = await BinCountry.aggregate([
+            {$match:{
+                "country": country,
+                "bank": bank,
+                "network": network
+            }},
+            {$project:{_id:0,"type":1,"level":1,"bin":1}}
+        ])
         console.log(bin_number)        
         const bin_data = bin_number.map(number => {
             return {
