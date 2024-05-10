@@ -88,7 +88,7 @@ async function getNewtwork(req,res){
 
 async function generateCard(req,res){
     try{
-        const { country, bank, network } = req.body
+        const { country, bank, network } = req.query
         console.log(country)
         console.log(bank)
         console.log(network)
@@ -114,6 +114,7 @@ async function generateCard(req,res){
         return res.send(bin_data)
     }catch(error){
         console.error("Error while retrieving data", error)
+        return res.status(500).json({ error: "Error al generar las tarjetas",error }); // Enviar una respuesta de error al cliente
     }
 }
 export { getCardData,getBinData,getCountries,getBanks, getNewtwork,generateCard }

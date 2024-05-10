@@ -10,6 +10,6 @@ router.get(`/getBanks/:aimCountry`, getBanks)
 router.get(`/getNetworks/:aimBank`, getNewtwork)
 router.get(`/getcountries`, getCountries)
 
-router.get(`/generate/`, generateCard)
+router.get(`/generate`, generateCard)
 
 export default router
